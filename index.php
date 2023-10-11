@@ -55,11 +55,7 @@
     <!-- Footer -->
     <footer class="footer bg-dark">
 	<div class="container">
-        <p class="m-0 text-center text-white" ><b> Anahi Lopez Marroquin </b></p>
-      </div>
-	  <div class="container">
-        <p class="m-0 text-center text-white" ><b> Keyla Yoselin Geronimo de la Cruz </b></p>
-      </div>
+        <p class="m-0 text-center text-white" ><b> Anahi Lopez Marroquin y Keyla Yoselin Geronimo de la cruz </b></p>
       <div class="container">
         <p class="m-0 text-center text-white" ><b> Dr. Christian Mauricio Castillo Estrada </b></p>
       </div>
